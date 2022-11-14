@@ -20,9 +20,9 @@
 Ruby on Rails
 ### フロントエンド
 Svelte
-## 外部API
+### 外部API
 SpotifyAPI
 LINEログイン API
 LINE Messaging API
-## インフラ・その他
+### インフラ・その他
 要検討
