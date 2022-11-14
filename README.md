@@ -20,7 +20,7 @@
 ### バックエンド
 - Ruby on Rails
 ### フロントエンド
-- Svelte or React
+- React
 ### 外部API
 - SpotifyAPI
 - LINEログイン API
