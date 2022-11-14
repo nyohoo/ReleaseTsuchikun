@@ -1,0 +1,2 @@
+# NewSong_tsuchikun
+フォローしたアーティストの新曲リリース情報をLINEBOTで通知してくれる
