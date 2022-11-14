@@ -17,12 +17,12 @@
 
 ## 使用予定の技術
 ### バックエンド
-Ruby on Rails
+- Ruby on Rails
 ### フロントエンド
-Svelte
+- Svelte
 ### 外部API
-SpotifyAPI
-LINEログイン API
-LINE Messaging API
+- SpotifyAPI
+- LINEログイン API
+- LINE Messaging API
 ### インフラ・その他
-要検討
+- 要検討
